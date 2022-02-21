@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "86161289919",
+    "project_id": "sikapps-8d04f",
+    "storage_bucket": "sikapps-8d04f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86161289919:android:6fc770e8d223d2f5af8c0a",
+        "android_client_info": {
+          "package_name": "com.flutterflow.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86161289919-k7so6k7s4cl7trdj4u3lhdjo9cctu495.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4b1ZyPTHI5iGRQs1yB20wxZsKuriwx0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86161289919-k7so6k7s4cl7trdj4u3lhdjo9cctu495.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86161289919-1j28ot65uvlprgncvn6vlfqpvdush1rd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
